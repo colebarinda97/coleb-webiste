@@ -1,0 +1,14 @@
+body{
+  background-color: azure;
+}
+
+button{
+  background: black;
+  color: #fff;
+  border: none ;
+  border-radius: 4px;
+}
+
+.button{
+  border: 2 solid gray;
+}
